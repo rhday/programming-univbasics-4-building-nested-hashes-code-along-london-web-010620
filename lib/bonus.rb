@@ -19,7 +19,7 @@ def bonus
       ]
    }
   }
-
+status = :montague[:hero][2]
 
 
   
